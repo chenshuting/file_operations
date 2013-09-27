@@ -18,4 +18,4 @@ implement cat functions using C++ codes
 read and analysis special format code from input file
 
 ##file_summarize.cpp
-implement ls, cp and mv functions using different way.
+implement ls, cp and rm functions using different way.
